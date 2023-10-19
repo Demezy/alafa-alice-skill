@@ -1,0 +1,2 @@
+URL: str = "SUPABASE_URL"
+KEY: str = "SUPABASE_KEY"
